@@ -10,11 +10,14 @@ Tabort tracking  	git rm --cached filnamn
 git init
 git config --global user.name 'Automan74'
 git config --global user.email 'marcus_sss@hotmail.com' 
-git add file 
+git add
 
 
 
 ------------------------------------------------------
 
 git commit -a -m 'komentar'       Nu behöver man inte git add, men måste skrivas i denna ordningen.
+
+touch .gitignore				Skapar git ignore.
+
 
