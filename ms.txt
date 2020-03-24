@@ -1,6 +1,8 @@
 Skriver något
 Skriver andra mening
 skriver lite till
+skriver
+
 
 
 Tabort tracking  	git rm --cached filnamn
