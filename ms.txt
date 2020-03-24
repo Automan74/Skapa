@@ -1,12 +1,11 @@
-Skriver något
-Skriver andra mening
-skriver lite till
-skriver
+
 
 
 
 Tabort tracking  	git rm --cached filnamn
 ------------------------------------------------------
+Starta en git gör  i denna ordningen
+
 git init
 git config --global user.name 'Automan74'
 git config --global user.email 'marcus_sss@hotmail.com' 
@@ -15,9 +14,19 @@ git add
 
 
 ------------------------------------------------------
+Skapa kontakt med github
+
+git remote add origin https://github.com/Automan74/Skapa.git
+git push -u origin master
+
+
+
+
 
 git commit -a -m 'komentar'       Nu behöver man inte git add, men måste skrivas i denna ordningen.
 
 touch .gitignore				Skapar git ignore.
 
+git branch namn					Skapar en ny Branch
 
+git checkout master				hoppar tillbaka till master dvs head pekar på master
