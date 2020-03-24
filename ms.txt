@@ -20,4 +20,5 @@ git commit -a -m 'komentar'       Nu behöver man inte git add, men måste skriv
 
 touch .gitignore				Skapar git ignore.
 
+git branch namn					Skapar en ny Branch
 
