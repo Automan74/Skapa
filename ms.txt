@@ -1,2 +1,11 @@
 Skriver något
 Skriver andra mening
+skriver lite till
+
+
+Tabort tracking  	git rm --cached filnamn
+------------------------------------------------------
+git init
+git config --global user.name 'Automan74'
+git config --global user.email 'marcus_sss@hotmail.com' 
+git add file 
